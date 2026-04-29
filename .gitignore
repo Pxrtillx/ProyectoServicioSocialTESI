@@ -1,0 +1,15 @@
+
+uploads/creditos/*
+!uploads/creditos/.gitkeep
+
+uploads/servicio/*
+!uploads/servicio/.gitkeep
+
+uploads/residencias/*
+!uploads/residencias/.gitkeep
+
+uploads/ingles/*
+!uploads/ingles/.gitkeep
+
+
+includes/db.php
